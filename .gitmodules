@@ -1,0 +1,3 @@
+[submodule "fg"]
+	path = fg
+	url = git://github.com/Plachotina/fg_test_project.git
